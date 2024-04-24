@@ -1,0 +1,28 @@
+:root {
+    --color-ffffffcc: #ffffffcc;
+}
+
+.class-app {
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.class-container {
+    min-width: 50%;
+    min-height: 300px;
+    background-color: var(--color-ffffffcc);
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+.class-countdown-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 2rem;
+}
