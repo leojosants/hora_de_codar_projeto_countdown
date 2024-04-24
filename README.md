@@ -6,8 +6,10 @@ Funcionalidade de contador regressivo exibindo dia(s), hora(s), minuto(s) e segu
 
 ### Executando aplicação
 
+  - `cd count-down`
+
   - `npm install`
-  
+
   - `npm run dev`
 
 ### Recursos utilizados
